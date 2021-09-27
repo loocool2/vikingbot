@@ -1,2 +1,2 @@
 # vikingbot
-A basic bot for the Western discord
+A basic music bot
